@@ -1,4 +1,4 @@
-## Opa o/ eu sou o Joao Victor seu Big Dev ! 👋
+## Opa o/ eu sou o Joao Victor seu Big Dev ! 😁
 
 - 🔭 Hoje eu trabalho com Desenvolvimento Web
 - 🌱 Atualmente estou estudando Django !
