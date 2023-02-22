@@ -17,6 +17,8 @@
   <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
   <br>
 <div> 
+  
+  
   ![Snake animation](https://github.com/Joao-Victor-BigDev/Joao-Victor-BigDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
