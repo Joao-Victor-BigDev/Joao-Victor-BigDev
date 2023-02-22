@@ -10,6 +10,180 @@
     <li><i>💴 "What makes you rich, is knowledge!" 💴</i></li><br>
   </ul>
 
+<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
+<img align="left" height="275px" width="275px" alt="" src="./images/guga_cyberpunk-03.png" />
+<table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Angular</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=next" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Next</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Node</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Redux</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=materialui" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Material<br>UI</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Styled<br>Components</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>SASS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>JQuery</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h2 align="center">
 <details open>
   <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
