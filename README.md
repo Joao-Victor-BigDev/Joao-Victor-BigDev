@@ -11,7 +11,7 @@
   </ul>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="275px" width="600px" alt="" src="./images/jvself.jpg" />
+<img align="left" height="275px" width="400px" alt="" src="./images/conhecimmento.jpg" />
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
