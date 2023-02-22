@@ -12,9 +12,10 @@
 ## Opa o/ eu sou o João Victor seu Big Dev ! 😁
 
   ##
-<h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
+<h2 align="center">
+<details open>
+  <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
   <br>
- 
 <div> 
   <a href="https://instagram.com/jvbigdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/BYSBWUadTV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
