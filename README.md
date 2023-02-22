@@ -1,5 +1,5 @@
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="">
+  <img align="right" src="./images/jvselfbolha.png" width="313px" height="313px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
     <li>☕ Tecnologia, café e códigos. ☕</li><br>
