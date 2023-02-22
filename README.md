@@ -23,22 +23,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Angular</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=next" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Next</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt=" icon"/><br>
       <sub>
         <b>
@@ -73,22 +57,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Vite</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Jest</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=redux" width="65px" alt=" icon"/><br>
       <sub>
         <b>
@@ -111,14 +79,6 @@
       <sub>
         <b>
           <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Figma</pre>
         </b>
       </sub>
     </td>
@@ -145,14 +105,6 @@
       <sub>
         <b>
           <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>SASS</pre>
         </b>
       </sub>
     </td>
