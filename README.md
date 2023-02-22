@@ -6,7 +6,7 @@
     <li>☕ Tecnologia, café e códigos. ☕</li><br>
     <li>🚀 Sou um Desenvolvedor FullStack Júnior, ambicioso, hiperfocado e buscando crescer como desenvolvedor. Sempre fui um estudante/pesquisador autodidata em várias áreas, agora estou me dedicando ao máximo a área web.</li><br>
     <li>🔮 Meu objetivo no futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮</li><br>
-     <li>- 🤓 Atualmente estou estudando JavaScript/TypeScript. 🌱</li><br>
+     <li>🌱🤓 Atualmente estou estudando JavaScript/TypeScript. 🤓</li><br>
     <li><i>💴 "What makes you rich, is knowledge!" 💴</i></li><br>
   </ul>
 
