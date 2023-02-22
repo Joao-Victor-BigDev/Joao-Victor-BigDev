@@ -67,14 +67,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=materialui" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Material<br>UI</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt=" icon"/><br>
       <sub>
         <b>
