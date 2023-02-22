@@ -1,5 +1,13 @@
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
+  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="">
 
+  <ul align="left" style="padding-right: 340px;">
+    <li>☕ Tecnologia, café e códigos. ☕</li><br>
+    <li>🚀 Sou um Desenvolvedor Frontend Júnior, ambicioso, hiperfocado e buscando crescer na área. Sempre fui um estudante/pesquisador autodidata em várias áreas (muitas colho benefícios até hoje) mas agora estou apontando tudo que tenho e me dedicando ao máximo ao ramo digital.</li><br>
+    <li>🔮 Meu objetivo num futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮</li><br>
+    <li><i>💴 "What makes you rich, is work!" 💴</i></li><br>
+  </ul>
+  
 ## Opa o/ eu sou o Joao Victor seu Big Dev ! 😁
 
 - 🔭 Hoje eu trabalho com Desenvolvimento Web
