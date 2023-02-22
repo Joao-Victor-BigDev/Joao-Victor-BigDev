@@ -1,3 +1,4 @@
+## Opa Seja Bem Vindo(a) o/ Eu sou o João Victor seu Big Dev ! 😁
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
   <img align="right" src="./images/jvselfbolha.png" width="313px" height="313px" alt="">
 
@@ -8,8 +9,6 @@
      <li>- 🤓 Atualmente estou estudando JavaScript/TypeScript. 🌱</li><br>
     <li><i>💴 "What makes you rich, is knowledge!" 💴</i></li><br>
   </ul>
-
-## Opa o/ eu sou o João Victor seu Big Dev ! 😁
 
 <h2 align="center">
 <details open>
