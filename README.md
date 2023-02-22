@@ -93,14 +93,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt=" icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=github" width="65px" alt=" icon"/><br>
       <sub>
         <b>
