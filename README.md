@@ -9,12 +9,10 @@
     <li><i>💴 "What makes you rich, is knowledge!" 💴</i></li><br>
   </ul>
   
-## Opa o/ eu sou o Joao Victor seu Big Dev ! 😁
+## Opa o/ eu sou o João Victor seu Big Dev ! 😁
 
-
-  
   ##
-<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+<h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
   <br>
  
 <div> 
