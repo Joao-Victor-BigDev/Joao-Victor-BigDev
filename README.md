@@ -8,9 +8,9 @@
      <li>- 🤓 Atualmente estou estudando JavaScript/TypeScript. 🌱</li><br>
     <li><i>💴 "What makes you rich, is knowledge!" 💴</i></li><br>
   </ul>
-#
+
 ## Opa o/ eu sou o João Victor seu Big Dev ! 😁
-#
+
 <h2 align="center">
 <details open>
   <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
