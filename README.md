@@ -6,7 +6,8 @@
     <li>☕ Codes, Coffee and Weed. 🥦</li><br>
     <li>🚀 Sou um Desenvolvedor FullStack, ambicioso, hiperfocado e buscando crescer como desenvolvedor. Sempre fui um estudante/pesquisador autodidata em várias áreas, agora estou me dedicando ao máximo a área web.</li><br>
     <li>🔮 Meu objetivo no futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮</li><br>
-     <li>🌱 Atualmente estou estudando JavaScript/TypeScript. 🤓</li><br>
+     <li>🌱 Atualmente estou desenvolvendo um servidor de RolePlay GTA5 - Fivem Utilizando todas as linguagens aprendidas 🤓</li><br>
+         <li>🌱 Grande SP - A selva de Pedra 🤓</li><br>
     <li><i>💴 "What makes you rich, is knowledge!" 💴</i></li><br>
   </ul>
 
